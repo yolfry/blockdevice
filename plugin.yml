@@ -1,9 +1,9 @@
 name: blockdevice
 version: 0.0.1
-main: yolfry\blockdevice\Main
+main: blockdevice\Main
 api: 4.6.1
-src-namespace-prefix: yolfry\blockdevice
+src-namespace-prefix: blockdevice
 
 author: Yolfry Bautista
 description: Permite blockar dipositivos 
-website: https://github.com/pmmp/ExamplePlugin
+website: https://github.com/yolfry/blockdevice
