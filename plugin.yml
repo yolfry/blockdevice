@@ -1,9 +1,9 @@
 name: blockdevice
-version: 0.0.1
+version: 0.2.1
 main: blockdevice\Main
 api: 4.6.1
 src-namespace-prefix: blockdevice
 
 author: Yolfry Bautista
-description: Permite blockar dipositivos 
+description: Permite blockar dipositivos
 website: https://github.com/yolfry/blockdevice

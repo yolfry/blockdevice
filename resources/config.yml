@@ -1,0 +1,20 @@
+---
+devicesBlock:
+  AMAZON: false
+  ANDROID: false
+  DEDICATED: false
+  GEAR_VR: false
+  HOLOLENS: false
+  IOS: false
+  NINTENDO: false
+  OSX: false
+  PLAYSTATION: false
+  TVOS: false
+  UNKNOWN: false
+  WIN32: false
+  WINDOWS_10: false
+  WINDOWS_PHONE: false
+  XBOX: false
+text:
+  kick: "Currently this server is not available for your device."
+  aDevices: "Available Devices:"
