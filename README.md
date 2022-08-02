@@ -1,4 +1,5 @@
-# Hormones
+# Block Device
+
 This is a security plugin, to protect your server from devices that contain many Hackers like (Android)
 
 Simply go to the plugin settings and add "true" to the device you want to lock. 
