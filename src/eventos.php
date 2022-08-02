@@ -61,12 +61,6 @@ class eventos implements Listener
         );
     }
 
-    /**
-     * @param PlayerLoginEvent $event
-     *
-     * @priority HIGHEST
-     */
-
     //Cuando el jugador inicia
     public function PlayerLoginEvent(PlayerLoginEvent $e): void
     {
